@@ -1,0 +1,8 @@
+Expected Results:
+
+- COUNT(*) gives total rows.
+- AVG(age) shows average of non-NULL ages.
+- GROUP BY groups rows (example: by age or status).
+- HAVING filters groups after aggregation (e.g., students with >1 present days).
+- ROUND() controls decimal places.
+- DISTINCT counts only unique values.
